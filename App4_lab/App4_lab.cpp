@@ -1,11 +1,11 @@
-// App4_lab.cpp : Defines the entry point for the console application.
-//
-
 #include "stdafx.h"
-
-
+#include "iostream"
+#include "functionSort.h"
+#include <ctime>
+using namespace std;
 int main()
 {
-    return 0;
+	interfaceMenu();
+	system("pause");
+	return 0;
 }
-
